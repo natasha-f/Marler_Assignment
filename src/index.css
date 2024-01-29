@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid;
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+}
+.sort-status {
+    padding: 10px;
+}
